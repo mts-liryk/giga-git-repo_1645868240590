@@ -6,7 +6,7 @@ class Main{
         this.tab = null;
         this.entryId = 0;
         
-        this.attach();
+        this.attach();xd
         // this.showTable();
     }
     
